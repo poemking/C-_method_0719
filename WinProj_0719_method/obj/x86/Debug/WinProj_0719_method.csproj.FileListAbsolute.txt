@@ -1,0 +1,14 @@
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\bin\Debug\WinProj_0719_method.exe
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\bin\Debug\WinProj_0719_method.pdb
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.Form1.resources
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.Properties.Resources.resources
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.csproj.GenerateResource.Cache
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.exe
+C:\vs2010\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.pdb
+C:\Git\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.exe
+C:\Git\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.pdb
+C:\Git\WinProj_0719_method\WinProj_0719_method\bin\Debug\WinProj_0719_method.exe
+C:\Git\WinProj_0719_method\WinProj_0719_method\bin\Debug\WinProj_0719_method.pdb
+C:\Git\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.Form1.resources
+C:\Git\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.Properties.Resources.resources
+C:\Git\WinProj_0719_method\WinProj_0719_method\obj\x86\Debug\WinProj_0719_method.csproj.GenerateResource.Cache
